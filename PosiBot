@@ -1,0 +1,27 @@
+#Introduction
+
+print("Hello, my name is Posibot what is your name?")
+name = input("My name is: ")
+print("Nice to meet you", name)
+
+#Explanation of what the bot does
+
+print("Would you like to know more about what I do?")
+infoResponse = input("Type 'y' for yes or type 'n' for no")
+
+while infoResponse.lower == 'y':
+  print("My job is to detect negative comments and filter them out to make social medias more positve friendly!") 
+  
+else: break
+
+while infoResponse.lower == 'n':
+  print("Okay, thanks for chatting with me!")
+  break
+
+
+#Asks user to insert texts/comments
+print("Want to give us a test? *revise")
+
+
+#Final Thank you message
+print("I really enjoyed this conversation! Thank you very much and make sure to spread positvity on the internet!")
