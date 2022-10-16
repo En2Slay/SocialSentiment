@@ -1,3 +1,9 @@
+// Credit for negative word list:
+// Bing Liu, Minqing Hu and Junsheng Cheng. "Opinion Observer: Analyzing 
+//     and Comparing Opinions on the Web." Proceedings of the 14th 
+//     International World Wide Web conference (WWW-2005), May 10-14, 
+//     2005, Chiba, Japan.
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.io.File;
